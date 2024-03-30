@@ -1,7 +1,6 @@
 # Goli
 
-Geometric Latin Typeface
-Read more about it at [MagicType](https://www.magictype.in/portfolio/goli-typeface/)
+Geometric Latin Typeface. Read more about it at [MagicType](https://www.magictype.in/portfolio/goli-typeface/)
 
 ![goli_feature_name2](https://github.com/magictype/Goli/assets/9861917/4972add4-3b59-4e30-9967-261b50097936)
 
