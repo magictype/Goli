@@ -11,4 +11,4 @@ Geometric Latin Typeface. Read more about it at [MagicType](https://www.magictyp
 The font family has a variable weight, with 5 predefined weights; light, regular, medium, semibold, and bold. It features over 600 precisely crafted glyphs, with standard and discretionary ligatures, mathematical features, currency symbols, ordinals, fractions, accents, lining figures, tabular figures, alternative glyphs, and other OpenType features. Currently, the type family has extensive language support for over 100 languages based on Latin.
 
 ## Licence
-Madhuban is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/goli/blob/master/OFL.txt)
+Goli is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/goli/blob/master/OFL.txt)
